@@ -1,0 +1,51 @@
+2024-10-01 13:47:23,269 :INFO : test_e2e :Getting all the card titles
+2024-10-01 13:47:23,457 :INFO : test_e2e :Entering country name as Ind
+2024-10-01 13:47:28,740 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-01 13:54:05,683 :INFO : test_formSubmission :First name isPratik
+2024-10-01 13:54:06,372 :INFO : test_formSubmission :First name isMoumita
+2024-10-01 13:54:06,372 :INFO : test_formSubmission :First name isMoumita
+2024-10-01 13:54:09,425 :INFO : test_e2e :Getting all the card titles
+2024-10-01 13:54:09,622 :INFO : test_e2e :Entering country name as Ind
+2024-10-01 13:54:14,848 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-05 16:37:56,435 :INFO : test_formSubmission :First name isPratik
+2024-10-05 16:37:57,219 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 16:37:57,219 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 16:38:00,240 :INFO : test_e2e :Getting all the card titles
+2024-10-05 16:38:00,452 :INFO : test_e2e :Entering country name as Ind
+2024-10-05 16:38:05,682 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-05 19:14:46,244 :INFO : test_formSubmission :First name isPratik
+2024-10-05 19:14:46,905 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 19:14:46,905 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 19:14:50,031 :INFO : test_e2e :Getting all the card titles
+2024-10-05 19:14:50,238 :INFO : test_e2e :Entering country name as Ind
+2024-10-05 19:14:55,475 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-05 19:24:51,025 :INFO : test_formSubmission :First name isPratik
+2024-10-05 19:24:51,660 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 19:24:51,660 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 19:24:54,524 :INFO : test_e2e :Getting all the card titles
+2024-10-05 19:24:54,720 :INFO : test_e2e :Entering country name as Ind
+2024-10-05 19:24:59,991 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-05 19:28:31,651 :INFO : test_formSubmission :First name isPratik
+2024-10-05 19:28:32,290 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 19:28:32,290 :INFO : test_formSubmission :First name isMoumita
+2024-10-05 19:28:35,239 :INFO : test_e2e :Getting all the card titles
+2024-10-05 19:28:35,434 :INFO : test_e2e :Entering country name as Ind
+2024-10-05 19:28:40,646 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 11:03:41,579 :INFO : test_formSubmission :First name isPratik
+2024-10-07 11:03:42,274 :INFO : test_formSubmission :First name isMoumita
+2024-10-07 11:03:42,274 :INFO : test_formSubmission :First name isMoumita
+2024-10-07 11:03:45,398 :INFO : test_e2e :Getting all the card titles
+2024-10-07 11:03:45,589 :INFO : test_e2e :Entering country name as Ind
+2024-10-07 11:03:50,798 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-14 13:12:39,594 :INFO : test_formSubmission :First name isPratik
+2024-10-14 13:12:42,928 :INFO : test_e2e :Getting all the card titles
+2024-10-14 13:12:43,181 :INFO : test_e2e :Entering country name as Ind
+2024-10-14 13:12:48,472 :INFO : test_e2e :Text received fro application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

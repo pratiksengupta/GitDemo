@@ -1,0 +1,14 @@
+2024-09-24 11:41:43,250 :INFO : pytestsDemo.test_logging :Information statement
+2024-09-24 11:41:43,251 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2024-09-24 11:41:43,251 :ERROR : pytestsDemo.test_logging :A major error has happened
+2024-09-24 11:41:43,251 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-09-24 11:45:02,012 :DEBUG : pytestsDemo.test_logging :It's a debug message
+2024-09-24 11:45:02,013 :INFO : pytestsDemo.test_logging :Information statement
+2024-09-24 11:45:02,013 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2024-09-24 11:45:02,013 :ERROR : pytestsDemo.test_logging :A major error has happened
+2024-09-24 11:45:02,013 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-09-24 12:42:07,658 :INFO : PytestUdemy.pytestsDemo.BaseClass :pratik
+2024-09-24 12:43:30,835 :INFO : PytestUdemy.pytestsDemo.BaseClass :pratik
+2024-09-24 12:43:30,835 :INFO : PytestUdemy.pytestsDemo.BaseClass :sengupta
+2024-09-24 12:46:48,946 :INFO : test_editprofile :pratik
+2024-09-24 12:46:48,946 :INFO : test_editprofile :sengupta
